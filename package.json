@@ -1,0 +1,14 @@
+{
+  "name": "bookkeeping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "IM66",
+  "license": "MIT"
+}
